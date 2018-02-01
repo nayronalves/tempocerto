@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: MyString
+  status: false
+  valor: 9.99
+  data_inicio: 2018-01-27 11:03:04
+  data_fim: 2018-01-27 11:03:04
+  cliente_id: 1
+  carro_id: 1
+
+two:
+  numero: MyString
+  status: false
+  valor: 9.99
+  data_inicio: 2018-01-27 11:03:04
+  data_fim: 2018-01-27 11:03:04
+  cliente_id: 1
+  carro_id: 1
